@@ -1,5 +1,5 @@
 pandas==2.2.3
-numpy==1.24
+numpy==2.1.1
 matplotlib==3.9.2
 Seaborn==0.13.2
 Streamlit==1.39.0
